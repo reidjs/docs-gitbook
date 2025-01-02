@@ -6,7 +6,7 @@ Monica strives to document people’s lives. Your life is composed of events tha
 
 At its core, Monica has a few key concepts:
 
-* [accounts](getting-started/accounts.md)
+* accounts
 * [vaults](broken-reference)
 * contacts
 
